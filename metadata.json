@@ -1,0 +1,5 @@
+{
+  "name": "Rohit Assistant",
+  "description": "A supportive and caring AI assistant named Rohit who talks to you in pure Hindi, listens to your problems, and guides you with a helpful voice.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
